@@ -1,2 +1,2 @@
-# Todo/ TaskList
-It's simple To Do  list using HTML,CSS and JavaScript
+# Todo List
+It's simple ToDo (Task list)  list using HTML,CSS and JavaScript
